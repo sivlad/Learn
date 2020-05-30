@@ -1,0 +1,8 @@
+1|LocalHost1|localhost|2c|public
+ 2|LANinterface
+  3|IncomTraffic|c:\usr\bin\snmpget -v 2c -c public localhost ifInOctets.2 >> d:\log|localhost1_LAN interface_IncomTraffic_log.txt
+  3|OutcomTraffic|c:\usr\bin\snmpget -v 2c -c public localhost ifOutOctets.2 >> d:\log|localhost1_LAN interface_OutcomTraffic_log.txt
+1|c4500|172.16.27.109|2c|public
+ 2|Gigabit1/0
+  3|Inputtraffic|c:\usr\bin\snmpget -v 2c -c public 172.16.27.109 ifInOctets.10 >> d:\log|c4500_Gigabit1/0_Inputtraffic_log.txt
+  3|Outputtraffic|c:\usr\bin\snmpget -v 2c -c public 172.16.27.109 IfOutOctets.10 >> d:\log|c4500_Gigabit1/0_Outputtraffic_log.txt

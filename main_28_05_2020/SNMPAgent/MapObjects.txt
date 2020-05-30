@@ -1,0 +1,23 @@
+MainForm|GraphikArea|100|550|1100|750|1000|200|
+MainForm|ExitButton|1100|35|1145|80|45|45|
+MainForm|MonitoringButton|210|40|360|80|150|40|
+MainForm|AddButton|50|40|200|80|150|40|
+AddForm1|AddForm|50|110|1150|750|1100|650|
+AddForm|DeviceLabel1|50|50|255|80|205|30|Имя устройства
+AddForm|DeviceLabel2|50|90|255|120|205|30|IP адрес устройства
+AddForm|DeviceLabel3|50|130|255|160|205|30|Строка SNMP соединения 
+AddForm|DeviceLabel4|50|230|255|260|205|30|Имя интерфейса
+AddForm|DeviceLabel5|50|330|255|360|205|30|Имя параметра мониторинга
+AddForm|DeviceLabel6|50|370|255|400|205|30|Параметр MIB базы
+AddForm|DeviceTextBox1|305|50|630|80|325|30|Input Text1
+AddForm|DeviceTextBox2|305|90|630|120|325|30|Input Text2
+AddForm|DeviceTextBox3|305|130|630|160|325|30|Input Text3
+AddForm|DeviceTextBox4|305|230|630|260|325|30|Input Text4
+AddForm|DeviceTextBox5|305|330|630|360|325|30|Input Text5
+AddForm|DeviceTextBox6|305|370|630|400|325|30|Input Text6
+AddForm|CancelButton|330|610|480|640|150|30|
+AddForm|OkButton|650|610|800|640|150|30|
+AddForm|OkButtonDevice|480|170|630|200|150|30|
+AddForm|OkButtonInterface|480|270|630|300|150|30|
+AddForm|OkButtonParametr|480|410|630|440|150|30|
+AddForm|OutputAreaTreeOutput|660|50|1060|570|400|520|

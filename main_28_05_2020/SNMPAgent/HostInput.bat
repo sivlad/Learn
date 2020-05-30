@@ -1,0 +1,1 @@
+c:\usr\bin\snmpget -v 2c -c public localhost ifInOctets.2 >> d:\log

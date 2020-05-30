@@ -1,0 +1,1 @@
+C:\usr\bin\snmpwalk -v 2c -c public localhost > Log.txt
